@@ -10,6 +10,6 @@ Treynor Ratio (systematic risk), and
 
 Jensen’s Alpha (abnormal return over CAPM expectations).
 
-The study involved time series analysis, including tests for normality, stationarity, white noise, and autocorrelation, using tools such as EViews, GRETL, and XLSTAT.
+The study involved time series analysis, including tests for normality, stationarity, white noise, and autocorrelation, using tools such as MS Excel, XLSTAT and EViews.
 
 The results provided insights into sectoral performance differences, volatility patterns, and the impact of market conditions on return efficiency. Findings were used to make portfolio strategy recommendations for investors aiming to maximize returns while managing risk during periods of high uncertainty.
