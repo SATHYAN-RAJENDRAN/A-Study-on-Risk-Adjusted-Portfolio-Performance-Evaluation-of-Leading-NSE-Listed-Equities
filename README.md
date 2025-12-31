@@ -1,6 +1,15 @@
 # A Study on Risk-Adjusted Portfolio Performance Evaluation of Leading NSE-Listed Equities Across Banking, IT, and FMCG Sectors.
 
-I worked on an MBA main project titled “A Study on Risk-Adjusted Portfolio Performance Evaluation of Leading NSE-Listed Equities Across Banking, IT, and FMCG Sectors.”
-The objective was to analyze sector-wise portfolio performance relative to risk and provide actionable investment strategies. I collected data from 12 major NSE-listed companies over 5 years (2020–2025) and applied time series tests like normality, stationarity, white noise, and autocorrelation using EViews, GRETL, and XLSTAT.
-I calculated Sharpe Ratio, Treynor Ratio, and Jensen’s Alpha to evaluate risk-adjusted returns. The analysis showed sector-wise differences, particularly during volatile periods like elections, and helped propose strategies for balancing returns with manageable risk.
-This project strengthened my analytical skills in finance, statistical modeling, and portfolio evaluation.
+This research project aimed to evaluate the risk-adjusted performance of selected equities from the Banking, IT, and FMCG sectors listed on the National Stock Exchange (NSE). The study assessed how well portfolios performed relative to the risk taken, especially in the context of economic and political events like national elections in India and the U.S., which often influence market behavior.
+
+Using a descriptive research design, the analysis covered a 5-year period (January 2020 – January 2025), incorporating stocks from 12 top companies including HDFC Bank, ICICI Bank, TCS, Infosys, HUL, and ITC. The performance was measured using three key risk-adjusted return metrics:
+
+Sharpe Ratio (total risk),
+
+Treynor Ratio (systematic risk), and
+
+Jensen’s Alpha (abnormal return over CAPM expectations).
+
+The study involved time series analysis, including tests for normality, stationarity, white noise, and autocorrelation, using tools such as EViews, GRETL, and XLSTAT.
+
+The results provided insights into sectoral performance differences, volatility patterns, and the impact of market conditions on return efficiency. Findings were used to make portfolio strategy recommendations for investors aiming to maximize returns while managing risk during periods of high uncertainty.
